@@ -1,0 +1,15 @@
+tensorflow-gpu==1.14.0
+Keras==2.2.4
+Keras-Applications==1.0.7
+Keras-Preprocessing==1.0.9
+git+https://www.github.com/keras-team/keras-contrib.git
+matplotlib==3.0.0
+numpy==1.18.1
+scipy
+sklearn
+Pillow==6.0.0
+pandas==0.24.2
+pathlib
+pydot==1.4.1
+jupyter
+notebook
